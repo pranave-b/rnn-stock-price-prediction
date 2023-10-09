@@ -110,11 +110,13 @@ mse(y_test,predicted_stock_price)
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![](output.png)
+![](![p](https://github.com/pranave-b/rnn-stock-price-prediction/assets/94165168/2327bc6e-c788-411e-a171-0e6b8febf445)
+)
 
 ### Mean Square Error
 
-![](p.png)
+![](![output](https://github.com/pranave-b/rnn-stock-price-prediction/assets/94165168/b2131bfd-5534-4798-b828-a6db1465a1a1)
+)
 
 ## RESULT
 Thus, a Recurrent Neural Network model for stock price prediction is developed.
